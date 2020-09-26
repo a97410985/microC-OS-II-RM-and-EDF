@@ -1,0 +1,8 @@
+C:\Users\a9741\OneDrive\桌面\ucos-vs2017-master\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.exe
+C:\Users\a9741\OneDrive\桌面\ucos-vs2017-master\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.pdb
+C:\Users\a9741\OneDrive\桌面\ucos_EDF_v1\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.exe
+C:\Users\a9741\OneDrive\桌面\ucos_EDF_v1\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.pdb
+C:\Users\a9741\OneDrive\桌面\ucos_EDF_v2\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.exe
+C:\Users\a9741\OneDrive\桌面\ucos_EDF_v2\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.pdb
+C:\Users\a9741\OneDrive\桌面\ucos_RM_v1\ucos-vs2017-master\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.exe
+C:\Users\a9741\OneDrive\桌面\ucos_RM_v1\ucos-vs2017-master\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.pdb

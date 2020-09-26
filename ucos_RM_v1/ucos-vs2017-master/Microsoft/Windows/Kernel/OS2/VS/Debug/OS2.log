@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\a9741\OneDrive\桌面\ucos_RM_v1\ucos-vs2017-master\Microsoft\Windows\Kernel\OS2\main.c(65,20): warning C4477: 'fscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'INT8U *'
+C:\Users\a9741\OneDrive\桌面\ucos_RM_v1\ucos-vs2017-master\Microsoft\Windows\Kernel\OS2\main.c(65,20): message : consider using '%hhd' in the format string
+C:\Users\a9741\OneDrive\桌面\ucos_RM_v1\ucos-vs2017-master\Microsoft\Windows\Kernel\OS2\main.c(95,48): warning C4018: '<': signed/unsigned mismatch
+C:\Users\a9741\OneDrive\桌面\ucos_RM_v1\ucos-vs2017-master\Microsoft\Windows\Kernel\OS2\main.c(124,8): warning C4101: 'testOutputFile': unreferenced local variable
+  OS2.vcxproj -> C:\Users\a9741\OneDrive\桌面\ucos_RM_v1\ucos-vs2017-master\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.exe
