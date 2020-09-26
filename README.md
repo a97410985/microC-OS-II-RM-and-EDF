@@ -64,7 +64,6 @@
 2.  EDF(有⼀些部份跟RM相同就不多贅述)
 
    1.  每個函數之間的關係
-
       1.  main.c檔(跟RM相似，只差在挑deadline最⼩的⽽不是挑period最⼩的)
       2.  os_core.c檔
          1. OSTimeTick
