@@ -78,7 +78,9 @@
          1. OSTaskChangePrio
             將原本某個優先權的任務換成另外⼀個優先權，會改到優先權與OS_TCB的表 ~ OSTCBPrioTbl 以及準備執⾏任務的表~ OSRdyTbl 。然後 OSTaskChangePrio 會 呼叫此函數來完成兩任務優先權交換。將呼叫OS_Sched的部分註解掉。
 
-   2. 實作的流程圖![image--001](README.assets/image--001.png)
+   2. 實作的流程圖
+      
+      ![image--001](README.assets/image--001.png)
 
    3. 實作的細節(講解部分在註解)
       OSTimeTick和OS_Sched的根據deadline交換優先權的部分
